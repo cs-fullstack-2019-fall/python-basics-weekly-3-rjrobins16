@@ -39,3 +39,6 @@ Before the program starts, ask the user for their account name and a pin number.
 
 
 # SERIOUSLY, POINTS WILL BE TAKEN OFF FOR NOT COMMENTING
+
+### Comments:
+Great Job! Good planning, comments, and you successfully completed the bonus!
